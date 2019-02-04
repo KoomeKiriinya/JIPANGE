@@ -1,1 +1,1 @@
-The Africastalkingateway.php is provided by the online API. My code exist in the ussd.php 
+
